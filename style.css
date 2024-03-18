@@ -1,0 +1,588 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Raleway", sans-serif;
+}
+
+header {
+    height: 248px;
+    width: 744px;
+    background:white;
+}
+
+.burger {
+    position: relative;
+    text-align: center;
+    left: 320px;
+    top: 40px;
+
+}
+
+.GrillMingle {
+    position: relative;
+    top: 110px;
+    left: 190px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.banner1 {
+    display: inline-block;
+}
+
+.Yummy {
+    position: relative;
+    bottom: 600px;
+    left: 200px;
+    color: white;
+    font-size: 100px;
+
+}
+
+.Burger {
+    position: relative;
+    bottom: 600px;
+    font-size: 200px;
+    color: brown;
+    left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.burgerbn {
+    height: 300px;
+    width: 371px;
+    position: relative;
+    bottom: 800px;
+    left: 175px;
+
+}
+
+.ordernow {
+    height: 55px;
+    width: 200px;
+    font-size: 20px;
+    position: relative;
+    bottom: 730px;
+    right: 120px;
+    border-radius: 10px;
+    border-style: none;
+    background: #FBCC01;
+}
+
+.container {
+    height: 1600px;
+    width: 744px;
+    background:white;
+    position: relative;
+    bottom: 700px;
+}
+
+.name {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+}
+
+.line {
+    height: 5px;
+    width: 80px;
+    background: orange;
+    border-radius: 5px;
+    position: relative;
+    left: 320px;
+    top: 10px;
+
+}
+
+.burgerlist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px;
+
+
+}
+
+.beefdom,
+.MixedZinger,
+.Chicken,
+.Tandoori,
+.VegZinger,
+.ClassicZinger {
+    height: 366px;
+    width: 280px;
+    margin-top: 50px;
+
+
+}
+
+.visit {
+    position: relative;
+    top: 450px;
+    right: 340px;
+
+}
+
+.beefdom {}
+
+.price299 {
+    position: relative;
+    bottom: 70px;
+    left: 130px;
+}
+
+.title {
+    position: relative;
+    text-align: center;
+    bottom: 60px;
+    right: 30px;
+
+}
+
+.beefdes {
+    position: relative;
+    bottom: 50px;
+
+}
+
+.add1 {
+    position: relative;
+    height: 34px;
+    width: 80px;
+    color: white;
+    background: orange;
+    border-style: none;
+    border-radius: 5px;
+    top: -20px;
+    left: 60px;
+}
+
+.MixedZinger {}
+
+.price349 {
+    position: relative;
+    bottom: 70px;
+    left: 130px;
+
+}
+
+.title2 {
+    position: relative;
+    text-align: center;
+    bottom: 60px;
+    right: 30px;
+}
+
+.mixeddes {
+    position: relative;
+    bottom: 50px;
+
+}
+
+.add2 {
+    position: relative;
+    height: 34px;
+    width: 80px;
+    color: white;
+    background: orange;
+    border-style: none;
+    border-radius: 5px;
+    top: -20px;
+    left: 60px;
+}
+
+.add3 {
+    position: relative;
+    height: 34px;
+    width: 80px;
+    color: white;
+    background: orange;
+    border-style: none;
+    border-radius: 5px;
+    top: -20px;
+    left: 60px;
+}
+
+.add4 {
+    position: relative;
+    height: 34px;
+    width: 80px;
+    color: white;
+    background: orange;
+    border-style: none;
+    border-radius: 5px;
+    top: 5px;
+    left: 60px;
+}
+
+.price249 {
+    position: relative;
+    bottom: 70px;
+    left: 130px;
+}
+
+.price2991 {
+    position: relative;
+    bottom: 70px;
+    left: 130px;
+}
+
+.title3 {
+    position: relative;
+    text-align: center;
+    bottom: 60px;
+    right: 30px;
+
+}
+
+.title4 {
+    position: relative;
+    text-align: center;
+    bottom: 55px;
+    right: 30px;
+}
+
+.chickendes {
+    position: relative;
+    bottom: 50px;
+
+
+}
+
+.Tandoorides {
+    position: relative;
+    bottom: 45px;
+
+}
+
+.add5 {
+    position: relative;
+    height: 34px;
+    width: 80px;
+    color: white;
+    background: orange;
+    border-style: none;
+    border-radius: 5px;
+    top: -20px;
+    left: 60px;
+}
+
+.add6 {
+    position: relative;
+    height: 34px;
+    width: 80px;
+    color: white;
+    background: orange;
+    border-style: none;
+    border-radius: 5px;
+    top: -20px;
+    left: 60px;
+}
+
+.price179 {
+    position: relative;
+    bottom: 70px;
+    left: 130px;
+}
+
+.price199 {
+    position: relative;
+    bottom: 70px;
+    left: 130px;
+}
+
+.title5 {
+
+    position: relative;
+    text-align: center;
+    bottom: 60px;
+    right: 30px;
+}
+
+.title6 {
+    position: relative;
+    text-align: center;
+    bottom: 60px;
+    right: 30px;
+
+}
+
+.classicdes {
+    position: relative;
+    bottom: 50px;
+}
+
+.vegdes {
+    position: relative;
+    bottom: 50px;
+}
+
+.visitmore {
+    position: relative;
+    right: -50px;
+    left: -30px;
+    top: 100px;
+    font-size: 18px;
+    color: #ff7216;
+}
+
+.banner2 {
+    height: 430px;
+    width: 744px;
+    position: relative;
+    top: -700px;
+}
+
+.pizza1 {
+    height: 318px;
+    width: 320px;
+    position: relative;
+    bottom: 380px;
+    left: 390px;
+}
+
+.bannercontent {
+    width: 40%;
+    position: relative;
+    top: -700px;
+    padding: 10px;
+}
+
+.bannercontent h1 {
+    font-size: 3rem;
+    text-align: left;
+    position: relative;
+    top:-30px;
+}
+
+.bannercontent h2 {
+    font-size: 6rem;
+    color: #ff7216;
+    position: relative;
+    top:-30px;
+}
+
+.bannercontent p {
+    font-size: 20px;
+    text-align: rigth;
+    position: relative;
+    top:-30px;
+
+}
+
+.ordernow1 {
+    width: 200px;
+    height: 50px;
+    background-color: #FBCC01;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 20px;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+    top:-30px;
+}
+
+.parent {
+    display: flex;
+    width: 744px;
+    height: 1800px;
+    background:white;
+    justify-content: space-around;
+    position: relative;
+    top: -730px;
+    flex-basis: 50%;
+    flex-wrap: wrap;
+}
+
+.list {
+    width: 280px;
+    height: 275px;
+    margin-top: 50px;
+}
+
+.price {
+    width: 110px;
+    height: 110px;
+    position: relative;
+    bottom: 150px;
+    left: 150px;
+}
+
+.parent h3 {
+    position: relative;
+    text-align: center;
+    bottom: 60px;
+    right: 30px;
+    font-size: 30px;
+
+
+}
+
+.parent p {
+    position: relative;
+    bottom: 50px;
+
+
+}
+
+.parent button {
+    position: relative;
+    height: 34px;
+    width: 80px;
+    color: white;
+    background: orange;
+    border-style: none;
+    border-radius: 5px;
+    top: -20px;
+    left: 60px;
+}
+
+.line1 {
+    height: 5px;
+    width: 80px;
+    background: orange;
+    border-radius: 5px;
+    position: relative;
+    left: 320px;
+    top: 10px;
+
+}
+
+.visitmore1 {
+    display: inline-block;
+    position: relative;
+    top: 500px;
+    right: 370px;
+    color: #ff7216;
+}
+
+.containertitle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    top: -700px;
+    font-size: 3rem;
+    height: 200px;
+    width: 744px;
+    background: white;
+}
+
+.containertitle h2 {
+    position: relative;
+    text-align: center;
+    left: -10px;
+
+}
+
+.containertitle div {
+    position: relative;
+    right: 20px;
+}
+
+.Visit {
+    font-size: 22px;
+    position: relative;
+    bottom: 770px;
+    text-align: center;
+    color: #ff7216;
+}
+
+.delicious {
+    position: relative;
+    right: -150px;
+    bottom: 100px;
+}
+
+.move {
+    position: relative;
+    bottom: 690px;
+    left: 170px;
+}
+.combo{
+    position: relative;
+    bottom: 600px;
+    row-gap:5px;
+}
+.comboprice{
+    position:relative;
+    right: 100px;
+}
+.combotext{
+    height: 200px;
+    width: 240px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 200px;
+    left: 450px;
+    row-gap: 20px;
+}
+.comboprice1{
+    position:relative;
+    right: 70px;
+}
+.comboprice2{
+    position:relative;
+    right: 30px;
+}
+ul{
+    position: relative;
+    left:20px;
+    
+}
+li::marker{
+    color:#ff7216;
+}
+.combotext button{
+    position: relative;
+    height: 34px;
+    width: 80px;
+    color: white;
+    background: orange;
+    border-style: none;
+    border-radius: 5px;
+
+}
+.combo1{
+    margin-bottom: -20px;
+
+}
+footer{
+    height: 350px;
+    width: 744px;
+    background:#ff7216;
+    position: relative;
+    bottom:120px;
+    color:white;
+
+}
+footer p, h6{
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+    left: -20px;
+    margin: 10px;
+    top: -40px;
+}
+.left{
+    position: relative;
+    top:110px;
+}
+.logo{
+    position: relative;
+    bottom:130px;
+    left:120px;
+
+}
+.socialmedia{
+    position:relative;
+    z-index: 1;
+    left:295px;
+    bottom:100px;
+}
